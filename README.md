@@ -1,5 +1,5 @@
 # gitbucket2tgbot
-Send gitbucket webhooks to telegram bot in Node.js
+Send gitbucket webhooks to telegram bot in Node.js (using Express).
 
 The systems is the following:
 Event in Gitbucket/TeamCity (push/pull request etc) -> webhook (POST to this service) -> send the formatted message to telegram group (simple POST)
