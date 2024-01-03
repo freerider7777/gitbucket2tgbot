@@ -1,0 +1,9 @@
+{
+  "name": "gitbucket-2-tg-bot",
+  "version": "0.0.2",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "node-fetch": "^2.7.0"
+  }
+}
